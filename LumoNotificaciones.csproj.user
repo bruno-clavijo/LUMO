@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Publicados\|ftp://192.168.100.45:30/Instalador/|http://lumokpi.com:1674/|ftp://192.168.100.45:30/|http://cepadem.synology.me/file/</PublishUrlHistory>
+    <InstallUrlHistory>http://lumokpi.com:1674/|http://192.168.100.45:9003/|\\localhost\Publicados\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>http://lumokpi.com:1674/|\\192.168.100.45\Varios\|http://cepadem.synology.me/file/|//localhost/Publicaciones/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>es-ES</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ShowAllFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

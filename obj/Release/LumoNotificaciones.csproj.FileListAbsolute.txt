@@ -1,0 +1,29 @@
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Release\sqlite.interop.dll
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Release\Recursos\chimes.wav
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Release\Lumo Notificaciones.exe.config
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Release\Lumo Notificaciones.exe.manifest
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Release\Lumo Notificaciones.application
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Release\Lumo Notificaciones.exe
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Release\Lumo Notificaciones.pdb
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Release\Dashboard.Dll.NETF.dll
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Release\EntityFramework.dll
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Release\Newtonsoft.Json.dll
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Release\System.Data.SQLite.dll
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Release\EntityFramework.xml
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Release\Newtonsoft.Json.xml
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Release\System.Data.SQLite.xml
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Release\LumoNotificaciones.csprojAssemblyReference.cache
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Release\LumoNotificaciones.Form1.resources
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Release\LumoNotificaciones.Properties.Resources.resources
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Release\LumoNotificaciones.csproj.GenerateResource.cache
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Release\LumoNotificaciones.csproj.CoreCompileInputs.cache
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Release\Lumo Notificaciones.TrustInfo.xml
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Release\Lumo Notificaciones.exe.manifest
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Release\Lumo Notificaciones.application
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Release\LumoNotificaciones.csproj.CopyComplete
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Release\Lumo Notificaciones.exe
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Release\Lumo Notificaciones.pdb

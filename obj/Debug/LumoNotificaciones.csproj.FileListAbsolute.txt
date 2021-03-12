@@ -1,0 +1,30 @@
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Debug\LumoNotificaciones.csprojAssemblyReference.cache
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Debug\LumoNotificaciones.Properties.Resources.resources
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Debug\LumoNotificaciones.csproj.GenerateResource.cache
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Debug\LumoNotificaciones.csproj.CoreCompileInputs.cache
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Debug\sqlite.interop.dll
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Debug\Dashboard.Dll.NETF.dll
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Debug\EntityFramework.dll
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Debug\Newtonsoft.Json.dll
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Debug\System.Data.SQLite.dll
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Debug\EntityFramework.xml
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Debug\System.Data.SQLite.xml
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Debug\LumoNotificaciones.Form1.resources
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Debug\LumoNotificaciones.csproj.CopyComplete
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Debug\Recursos\chimes.wav
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Debug\CEPADEMRH Notificaciones.exe.config
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Debug\CEPADEMRH Notificaciones.exe.manifest
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Debug\CEPADEMRH Notificaciones.application
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Debug\CEPADEMRH Notificaciones.exe
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Debug\CEPADEMRH Notificaciones.pdb
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Debug\CEPADEMRH Notificaciones.TrustInfo.xml
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Debug\CEPADEMRH Notificaciones.exe.manifest
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Debug\CEPADEMRH Notificaciones.application
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Debug\CEPADEMRH Notificaciones.exe
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\obj\Debug\CEPADEMRH Notificaciones.pdb
+C:\Users\brunofernandez\OneDrive - Lumo Financiera del Centro\Documents\Middleware\LumoNotificaciones\bin\Debug\Inventario.Data.dll
